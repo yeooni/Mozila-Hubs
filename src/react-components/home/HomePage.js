@@ -99,7 +99,7 @@ export function HomePage() {
           <Column padding gap="xl" className={styles.card}>
             <img src={configs.image("landing_rooms_thumb")} />
             <h3>
-              <FormattedMessage id="home-page.rooms-title" defaultMessage="Instantly create rooms" />
+              <FormattedMessage id="home-page.rooms-title" defaultMessage="룸 생성하기" />
             </h3>
             <p>
               <FormattedMessage
